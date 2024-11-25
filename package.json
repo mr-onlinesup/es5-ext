@@ -71,12 +71,6 @@
 				"rules": {
 					"strict": "off"
 				}
-			},
-			{
-				"files": "_postinstall.js",
-				"env": {
-					"node": true
-				}
 			}
 		]
 	},
